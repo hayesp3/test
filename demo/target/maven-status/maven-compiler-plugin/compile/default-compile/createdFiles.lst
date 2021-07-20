@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\example\demo\web\ReportsController.class
+com\example\demo\datasource\DataRetriever.class
+com\example\demo\datasource\CSVDataRetriever.class
+com\example\demo\data\Valuation.class
+com\example\demo\data\RefData.class
+com\example\demo\data\Report.class
+com\example\demo\data\Trade.class
+com\example\demo\mapper\FileMapper.class
